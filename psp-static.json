@@ -1,0 +1,328 @@
+[{
+  "category" : "greeting",
+  "answers" : [
+    {
+      "text" : "Hello! How can I assist you today?",
+      "questions" : [
+        "Hello!",
+        "Hi!",
+        "Hello! How are you?",
+        "Hi! can you help me?"
+      ]
+    }
+  ]
+},
+  {
+    "category" : "insurance",
+    "answers" : [
+      {
+        "text": "At this stage, it is not possible to purchase medicines by reference number on our website. However, it is possible to send you a stamped invoice with the operator's involvement, which you can submit to the insurance company. Want to be connected to an operator?",
+        "questions": [
+          "Can I purchase medicine with insurance or referral number?",
+          "How can I purchase medicine with insurance?",
+          "Can I purchase medicine with referral number?"
+        ]
+      },
+      {
+        "text" : "You will be redirected to the operator",
+        "questions" : [
+          "I bought medicines with insurance and I want a printed statement",
+          "How can I get a printed statement?",
+          "I want a printed statement"
+        ]
+      },
+      {
+        "text" : "To get information about PSP insurance, please contact the operator at the number - 0322 18 55 55 or write to him on the Facebook page https://www.facebook.com/ipsp.ge",
+        "questions" : [
+          "What is PSP insurance?",
+          "How does PSP insurance work?",
+          "How can I use PSP insurance?"
+        ]
+      },
+      {
+        "text" : "Regarding the mentioned issue, please contact the information service at the number 032 2 40 20 20 and dial 1 after starting the call.",
+        "questions" : [
+          "all other insurance related questions"
+        ]
+      }
+    ]
+
+  },
+  {
+    "category" : "breakdown of medications",
+    "answers" : [
+      {
+        "text" : "At this stage, it is not possible to disassemble medicines when purchasing online, please ask the pharmacy for this. In case of additional questions regarding the mentioned issue, please contact the information service at the number 032 2 40 20 20 and dial 1 after starting the call.",
+        "questions" : [
+          "Can medicines be disassembled when buying online?",
+          "Do you break down medications when purchasing online?"
+        ]
+      },
+      {
+        "text" : "For unit price information, please contact the information service at 032 2 40 20 20 and dial 1 after starting the call.",
+        "questions" : [
+          "How can I find out the unit price of the medicine?",
+          "How can I find out the price of the broken medicine?",
+          "I am interested in the price of the dissolved medicine"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "loyalty card",
+    "answers" : [
+      {
+        "text" : "In order to find out how many GEL smiles you have on the card, you need to divide the number of accumulated smiles by 10.",
+        "questions" : [
+          "How to convert smiles into GEL?",
+          "How do I know how many GEL I have?",
+          "Number of smiles in GEL"
+        ]
+      },
+      {
+        "text" : "Regarding the mentioned issue, please contact the information service at the number 032 2 40 20 20 and dial 2 after starting the call.",
+        "questions" : [
+          "All other questions related to loyalty card"
+        ]
+      },
+      {
+        "text" : "You will be redirected to the operator",
+        "questions" : [
+          "How do I know what products I can buy with a smile?",
+          "I want information on that catalog of products that I can buy with a smile",
+          "What can I buy with a smile?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "raffle",
+    "answers" : [
+      {
+        "text" : "Regarding the mentioned issue, please visit the website - https://card.psp.ge/new/index.php?page=contents&MenuItemID=34&id=10 or contact the information service at the number 032 2 40 20 20 and dial 2 after starting the call.",
+        "questions" : [
+          "When is the raffle?",
+          "How can I participate in the raffle?",
+          "Where can I find information about the raffle?"
+        ]
+      }
+
+    ]
+  },
+  {
+    "category" : "shipping methods",
+    "answers" : [
+      {
+        "text": "Delivery of purchases up to 100 GEL costs 3 GEL, delivery above 100 GEL is free. Delivery is carried out in Tbilisi, Rustavi, Batumi, Kutaisi, Gori, Telavi, Kobuleti, Poti, Zugdidi.",
+        "questions" : [
+          "How much does delivery cost?",
+          "How much does delivery cost?",
+          "Which cities do you deliver to?",
+          "I am interested in shipping rates"
+        ]
+      },
+      {
+        "text" : "You will receive your order within 1 hour.",
+        "questions" : [
+          "Will I receive my order within an hour?",
+          "Will I really receive my order within an hour?",
+          "How soon will I receive my order?",
+          "Will I receive my order quickly?"
+        ]
+      },
+      {
+        "text" : "Unfortunately, we cannot offer long-distance delivery service.",
+        "questions" : [
+          "Is long distance delivery available?",
+          "Is it possible to deliver from city to city?"
+        ]
+      },
+      {
+        "text" : "No, payment with the courier is not possible.",
+        "questions" : [
+          "Can I pay with the courier?",
+          "Can I pay with the courier by card?",
+          "Can I pay with the courier by cash?",
+          "Payment to the courier on the spot",
+          "Can I pay with the courier when purchasing online?"
+        ]
+      },
+      {
+        "text" : "Unable to combine orders. Two couriers will deliver your orders.",
+        "questions" : [
+          "I have two orders and can the courier deliver both together?",
+          "Can two orders be combined?",
+          "I have two orders and can the courier pick up the second one as well?"
+        ]
+      },
+      {
+        "text" : "You will be redirected to the operator",
+        "questions" : ["For returned orders: I will pay for the courier and send it to me again.",
+          "I will pay the courier and can he bring the returned order to me?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "voucher",
+    "answers" : [
+      {
+        "text" : "At this stage, the voucher can only be used by visiting the branch. In case of additional questions regarding the mentioned issue, please contact the information service at the number 032 2 40 20 20 and dial 1 after starting the call.",
+        "questions" : [
+          "Can I use the voucher online?",
+          "Can I use the voucher when purchasing online?",
+          "Can I use the voucher on your website?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "promo code",
+    "answers" : [
+      {
+        "text" : "If you do not have a promo code, then leave this field empty and place the order.",
+        "questions" : [
+          "What should I enter in the promo code field?"
+        ]
+      },
+      {
+        "text" : "You will be redirected to the operator",
+        "questions" : [
+          "All other questions about the promo code"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "technical issue" ,
+    "answers" : [
+      {
+        "text" : "The site is being updated, sorry for the inconvenience.",
+        "questions" : [
+          "site is under maintenance"
+        ]
+      },
+      {
+        "text" : " Thanks for the information, we will definitely pass it on to the appropriate department.",
+        "questions" : [
+          "Is there a bug on the site and can you fix it?"
+        ]
+      },
+      {
+        "text" : "You will be redirected to the operator",
+        "questions" : [
+          "all other questions related to technical issues"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "site functionality",
+    "answers" : [
+      {
+        "text" : "To see detailed information regarding \"Registration/Authorization\", visit the web page: link",
+        "questions" : [
+          "How to register?",
+          "How do I get authorization?",
+          "How do I access my profile?",
+          "I want to register and how can I do it?"
+        ]
+      },
+      {
+        "text" : "To see detailed information about \"password recovery\", visit the web page: link",
+        "questions" : [
+          "How to reset the password?",
+          "I forgot my password and how to recover it?"
+        ]
+      },
+      {
+        "text" : "To see detailed information about \"order implementation\", visit the web page: link",
+        "questions" : [
+          "how to order?",
+          "How to place an order?",
+          "How to order on the website"
+        ]
+      },
+      {
+        "text" : "To see detailed information about the \"withdrawal service from the pharmacy\", visit the web page: link",
+        "questions": [
+          "How should I take the purchased products from the pharmacy?",
+          "How can I pick up the ordered product from the pharmacy?"
+        ]
+      },
+      {
+        "text": "To see detailed information regarding \"Purchase with insurance/referral\", visit the web page: link",
+        "questions" : [
+          "How do I purchase with insurance/referral card?",
+          "How to buy products with insurance?",
+          "How to buy drugs with a referral card?"
+        ]
+      },
+      {
+        "text" : "To see detailed information about \"change of personal data\", visit the web page: link",
+        "questions" : [
+          "How to change personal data?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "payment methods",
+    "answers" : [
+      {
+        "text" : "The following payment methods are available on the PSP website: VISA and Mastercard cards, ApplePay or Gpay, TBC bank transfer and Bank of Georgia payment in installments.",
+        "questions" : [
+          "What payment methods are available?",
+          "How can I pay on the site?",
+          "What payment methods can I use?"
+        ]
+      },
+      {
+        "text" : "Payment with PLUS card/Amex card/Liberty social card is not possible.",
+        "questions" : [
+          "Can I pay with a Plus card?",
+          "Can I pay with an Amex card?",
+          "Will I be able to pay with Liberty Social?"
+        ]
+      },
+      {
+        "text" : "It is not possible to purchase the product online with cash payment",
+        "questions" : [
+          "Will I pay in cash?",
+          "Will I be able to pay in cash when purchasing online?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "discount",
+    "answers" : [
+      {
+        "text" : "To see information about the discount terms, visit our Facebook page or contact the information service at the number 032 2 40 20 20 and dial 3 after starting the call.",
+        "questions" : [
+          "How long is the discount?",
+          "I am interested in information about the terms of the discount?"
+        ]
+      },
+      {
+        "text" : "It is not known in advance which products will be discounted. Follow our website and facebook page for updates.",
+        "questions" : [
+          "How can I see future discounts?",
+          "Will there be price reductions in the future?"
+        ]
+      }
+    ]
+  },
+  {
+    "category" : "vacancy",
+    "answers" : [
+      {
+        "text" : "To see detailed information on active vacancies, please visit the site: http://vacancy.psp.ge/",
+        "questions" : [
+          "Interested in information on current vacancies?",
+          "Where can I find information on vacancies?"
+        ]
+      }
+    ]
+  }
+]
